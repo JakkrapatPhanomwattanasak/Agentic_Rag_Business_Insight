@@ -1,4 +1,10 @@
-# Intelligent Financial Data Agent (Agentic RAG)
+# Agentic RAG — Business Insight Analysis
+
+[View the portfolio showcase](https://jakkrapat-project-lab.happy-bud-2264.chatgpt.site/#rag) · [Publication provenance and verification](docs/PUBLICATION_NOTES.md)
+
+![Recorded Agentic RAG application with Thai answers and PDF-page citations](docs/advisor-update-2026-10-04/assets/answer.jpg)
+
+*Recorded application screenshot. The portfolio presents source and research evidence; the full FastAPI system runs with the services configured below.*
 
 A FastAPI-based **Agentic Retrieval-Augmented Generation (RAG)** system for extracting,
 processing, and analyzing **Thai financial documents**. Its configured online path
@@ -9,6 +15,15 @@ PostgreSQL/pgvector, and a knowledge graph — routed by a tool-using agent with
 answer self-correction step.
 
 ---
+
+## Project Closure Plan — 9 October 2026
+
+The [current closure plan](docs/PROJECT_CLOSURE_PLAN_2026-10-09_th.md) focuses
+on a specific Thai business-report use case, reliable fresh-PDF evaluation,
+a matched technical baseline, and measured operating costs. Market comparison
+uses official-source desk research without purchasing competitor subscriptions.
+Docling is excluded from the closure scope. The examination window is
+8–11 November 2026, with a working delivery target of 6 November.
 
 ## Evaluation Update — 8 October 2026
 

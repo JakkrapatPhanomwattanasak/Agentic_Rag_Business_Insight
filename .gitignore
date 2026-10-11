@@ -79,3 +79,9 @@ Old_Project_Report/
 /TestFile/evaluation_completion_2026-10-07/
 /TestFile/evaluation_goal_supervision_2026-10-08/
 /TestFile/rag-continuation-2026-10-05-v5/
+/TestFile/project_closure_2026-10-09/
+
+# Publication checkout: private runtime and local workspace state
+/tmp/
+/notion/
+/Open_Project_Status.cmd
