@@ -2,9 +2,9 @@
 
 [View the portfolio showcase](https://jakkrapat-project-lab.happy-bud-2264.chatgpt.site/#rag) · [Publication provenance and verification](docs/PUBLICATION_NOTES.md)
 
-![Recorded Agentic RAG application with Thai answers and PDF-page citations](docs/advisor-update-2026-10-04/assets/answer.jpg)
+![Business Agent redesigned Overview in dark mode, shown with synthetic preview data](docs/ui-preview/overview-dark.png)
 
-*Recorded application screenshot. The portfolio presents source and research evidence; the full FastAPI system runs with the services configured below.*
+*Current UI with explicitly synthetic preview data. [See dark/light themes, Ask evidence, attribution, and verification](docs/UI_INTEGRATION_2026-10-16.md). The full FastAPI system runs with the services configured below.*
 
 A FastAPI-based **Agentic Retrieval-Augmented Generation (RAG)** system for extracting,
 processing, and analyzing **Thai financial documents**. Its configured online path

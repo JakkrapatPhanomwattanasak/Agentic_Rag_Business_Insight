@@ -1,5 +1,9 @@
 # Publication provenance and verification
 
+The [16 October UI integration](UI_INTEGRATION_2026-10-16.md) adds the team's
+`auto1-ui` redesign and shared PDF renderer lock with original upstream credits.
+It includes a synthetic local preview, current screenshots and verification.
+
 This repository publishes the existing Agentic RAG Business Insight project and the current source repairs supplied in the local working directory.
 
 ## Provenance
